@@ -6,7 +6,7 @@
 
 ## 🧭 Summary
 - 🧑‍💻 Main Languages: **Python** & **JavaScript**  
-- ⚙️ Main Workstation: **macOS**, Sub: **Windows**  
+- ⚙️ Main Workstation: **Windows**, Sub: **macOS**  
 - 🌏 Based in **Sydney 🇦🇺** & **London 🇬🇧**
 - 🚀 Passionate about creating efficient, high-quality software  
 - 📚 Constantly learning and evolving in tech  
