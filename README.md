@@ -27,10 +27,10 @@
 ## 🛠 Technical Stack  
 
 ### 💻 Operating Systems  
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)](#)
 
 ### 💬 Languages  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -42,9 +42,9 @@
 
 ### ☁️ Cloud & Infrastructure  
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-web-services&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Azure-0089D6?logo=msazure&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-web-services&logoColor=white)](#)
 
 ---
 
